@@ -27,7 +27,7 @@ const AnimatedBackground = () => {
       {/* Image Overlays - Pushed to extreme edges with low opacity */}
       <div className="fixed inset-0 pointer-events-none overflow-hidden opacity-[0.08] z-0">
         <Image
-          src="https://i.imgur.com/2MmMIH0.png"
+          src="https://i.imgur.com/sirgHxr.png"
           alt=""
           width={100}
           height={100}
@@ -35,7 +35,7 @@ const AnimatedBackground = () => {
           className="absolute top-12 left-2 w-14 h-14 object-contain animate-float-gentle delay-1000"
         />
         <Image
-          src="https://i.imgur.com/GKwrbIs.png"
+          src="https://i.imgur.com/ILSyVXz.png"
           alt=""
           width={160}
           height={160}
@@ -43,7 +43,7 @@ const AnimatedBackground = () => {
           className="absolute top-24 right-2 w-16 h-16 object-contain animate-float-gentle"
         />
         <Image
-          src="https://i.imgur.com/cpojBG3.png"
+          src="https://i.imgur.com/AiTcj2Z.png"
           alt=""
           width={160}
           height={160}
@@ -51,7 +51,7 @@ const AnimatedBackground = () => {
           className="absolute top-[42%] left-2 w-16 h-16 object-contain animate-float-gentle"
         />
         <Image
-          src="https://i.imgur.com/JSqNKHC.png"
+          src="https://i.imgur.com/BLNJiOL.png"
           alt=""
           width={160}
           height={160}
@@ -59,7 +59,7 @@ const AnimatedBackground = () => {
           className="absolute top-[78%] right-2 w-16 h-16 object-contain animate-float-gentle"
         />
         <Image
-          src="https://i.imgur.com/FUtj88i.png"
+          src="https://i.imgur.com/mjWR7t4.png"
           alt=""
           width={160}
           height={160}
